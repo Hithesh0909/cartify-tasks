@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cartify-tasks/static/css/main.e5072f49.css",
+    "main.js": "/cartify-tasks/static/js/main.84c0b0ae.js",
+    "static/js/453.fbb4abed.chunk.js": "/cartify-tasks/static/js/453.fbb4abed.chunk.js",
+    "index.html": "/cartify-tasks/index.html",
+    "main.e5072f49.css.map": "/cartify-tasks/static/css/main.e5072f49.css.map",
+    "main.84c0b0ae.js.map": "/cartify-tasks/static/js/main.84c0b0ae.js.map",
+    "453.fbb4abed.chunk.js.map": "/cartify-tasks/static/js/453.fbb4abed.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e5072f49.css",
+    "static/js/main.84c0b0ae.js"
+  ]
+}
